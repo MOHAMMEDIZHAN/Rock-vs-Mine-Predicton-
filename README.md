@@ -44,7 +44,7 @@ matplotlib
 Usage
 
 Clone the Repository:
-git clone https://github.com/MOHAMMEDIZHAN/Rock-vs-Mine-Prediction.git
+git clone [https://github.com/MOHAMMEDIZHAN/Rock-vs-Mine-Prediction.git](https://github.com/MOHAMMEDIZHAN/Rock-vs-Mine-Predicton-)
 cd Rock-vs-Mine-Prediction
 
 Run the Script:
