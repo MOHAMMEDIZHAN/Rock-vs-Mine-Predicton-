@@ -56,4 +56,4 @@ The Logistic Regression model will output the accuracy of its predictions on the
 Contributing:
 Contributions are welcome! If you have any ideas or improvements, feel free to open an issue or submit a pull request.
 
-This README provides a clear and concise overview of your project, helping others understand and use your work effectively.
+This README provides a clear and concise overview of this project, helping everyone understand and use this work effectively.
